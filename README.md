@@ -1,1 +1,1 @@
-# Python-Loan-Prediction-AI
+# Loan-Status-Prediction
